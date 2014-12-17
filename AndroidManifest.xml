@@ -26,6 +26,10 @@
             android:name="com.example.activity.DemoActivity"
             android:label="@string/title_activity_demo" >
         </activity>
+        <activity
+            android:name="com.example.activity.Demo1Activity"
+            android:label="@string/title_activity_demo1" >
+        </activity>
     </application>
 
 </manifest>
