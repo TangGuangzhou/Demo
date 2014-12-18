@@ -12,6 +12,6 @@ public class MasterActivity extends Activity {
 		
 		System.out.print("I'm a master!!!");
 		
-		System.out.print("I'm a local change!!!");
+		System.out.print("I'm a new change!!!");
 	}
 }
