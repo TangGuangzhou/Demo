@@ -16,8 +16,6 @@ public class MasterActivity extends Activity {
 		
 		System.out.print("commit master");
 		
-		System.out.print("commit branch");
-		
 		System.out.print("commit master2");
 	}
 }
