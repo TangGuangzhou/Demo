@@ -11,5 +11,7 @@ public class Demo1Activity extends Activity {
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.demo1_layout);
+		
+		System.out.print("demo branch1");
 	}
 }
