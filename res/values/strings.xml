@@ -6,5 +6,7 @@
     <string name="title_activity_demo">DemoActivity</string>
     <string name="title_activity_demo1">Demo1Activity</string>
     <string name="title_activity_demo2">Demo2Activity</string>
+    <string name="title_activity_master">MasterActivity</string>
+    <string name="title_activity_branch">BranchActivity</string>
 
 </resources>
