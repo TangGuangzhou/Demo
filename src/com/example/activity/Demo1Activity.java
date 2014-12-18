@@ -1,12 +1,9 @@
 package com.example.activity;
 
-import com.example.demo.R;
-import com.example.demo.R.layout;
-
 import android.app.Activity;
 import android.os.Bundle;
-import android.view.Menu;
-import android.view.MenuItem;
+
+import com.example.demo.R;
 
 public class Demo1Activity extends Activity {
 
