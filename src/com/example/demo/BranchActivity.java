@@ -11,5 +11,6 @@ public class BranchActivity extends Activity {
 		setContentView(R.layout.activity_branch);
 		
 		System.out.print("I'm a branch,too!!!");
+		System.out.print("I'm a new change!!!");
 	}
 }
