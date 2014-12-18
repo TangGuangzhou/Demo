@@ -10,6 +10,6 @@ public class MasterActivity extends Activity {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_master);
 		
-		System.out.print("I'm a master");
+		System.out.print("I'm a master！！！");
 	}
 }
