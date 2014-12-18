@@ -9,5 +9,7 @@ public class BranchActivity extends Activity {
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_branch);
+		
+		System.out.print("I'm a branch,too!!!");
 	}
 }
