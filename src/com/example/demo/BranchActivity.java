@@ -12,5 +12,6 @@ public class BranchActivity extends Activity {
 		
 		System.out.print("I'm a branch,too!!!");
 		System.out.print("I'm a new change!!!");
+		System.out.print("I'm a new change");
 	}
 }
